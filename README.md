@@ -11,6 +11,7 @@ Develop backend `REST API` using `PHP` by implementing custom `MVC architecture`
 
  Develop Frontend using `React.js (Latest)` SPA Framework.
 * React.js 
+* Bootstrap
 
 ## Demo
 
@@ -44,6 +45,7 @@ Develop backend `REST API` using `PHP` by implementing custom `MVC architecture`
 ## Frontend Code Highlights (React)
 * Function Based Components
 * State Hooks
+* Bootstrap For Desigining
   
 ## Project Features
 * List Products
