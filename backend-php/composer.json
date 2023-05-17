@@ -1,0 +1,11 @@
+{
+    "name": "scandiweb/project",
+    "type": "project",
+    "description": "Assessment Task.",
+    "autoload": {
+        "psr-4": {
+              "App\\": "app/",
+              "App\\Core\\": "core/"
+        }
+    }
+}

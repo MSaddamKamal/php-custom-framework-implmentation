@@ -1,0 +1,15 @@
+html, body {
+    height: 100%;
+    background: #00B4DB;
+    color: #514B64;
+    overflow-x: hidden;
+}
+
+.navbar{
+    box-shadow: -11px -8px 15px 7px rgb(154 153 153 / 50%);
+    border-bottom: 1px solid #495057;
+    background-color: #152733 !important;
+}
+.navbar-light .navbar-brand{
+    color: #fff;
+}
